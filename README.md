@@ -2,13 +2,23 @@
 
 ## 个人笔记
 
-* [Wiki 主页](https://github.com/huyx/homepage/wiki/)
 * [技术笔记](https://github.com/huyx/tech-note)
 
-## 技术资料链接
+## 常用软件
+
+* Doit.im
+* 有道云笔记
+* iReader
+* 百度云
+
+## 技术资源
 
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [reSRC](http://resrc.io/)
+  - [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
+  - [Programming Interactive Tutorials](http://resrc.io/list/217/programming-interactive-tutorials/)
+  - [pycrumbs](http://resrc.io/list/4/pycrumbs/) -- All free Python learning resources
 
 ### Python
 
@@ -25,6 +35,7 @@
 * when.py
 * requests
 
-## 技术文章
+## 文章/书
 
 * [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
