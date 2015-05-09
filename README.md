@@ -3,13 +3,7 @@
 ## 个人笔记
 
 * [技术笔记](https://github.com/huyx/tech-note)
-
-## 常用软件
-
-* Doit.im
-* 有道云笔记
-* iReader
-* 百度云
+* [常用软件](https://github.com/huyx/homepage/blob/master/software.md)
 
 ## 技术资源
 
