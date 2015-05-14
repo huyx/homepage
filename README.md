@@ -5,6 +5,12 @@
 * [技术笔记](https://github.com/huyx/tech-note)
 * [常用软件](https://github.com/huyx/homepage/blob/master/software.md)
 
+* [Python](https://github.com/huyx/homepage/blob/master/python.md)
+
+## 时间/效率
+
+# [小强的时间管理博客](http://www.gtdlife.com/)
+
 ## 技术资源
 
 * [Awesome](https://github.com/sindresorhus/awesome)
