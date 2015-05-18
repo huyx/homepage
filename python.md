@@ -1,10 +1,23 @@
+## 常用链接
+
+* [GitHub Trending](https://github.com/trending?l=python&since=monthly)
+
 ## Python 模块
 
 * gunicorn [文档](http://docs.gunicorn.org/) - Python WSGI HTTP Server for UNIX
 * [setproctitle](http://pypi.python.org/pypi/setproctitle) - 修改进程名
+
+## Python 项目
+
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [HTTPie ](https://github.com/jakubroztocil/httpie)
 * [aiohttp](https://github.com/KeepSafe/aiohttp) [文档](http://aiohttp.readthedocs.org/)
   - aiohttp_session
   - aiohttp_jinja2
+
+## 好文章
+
+* [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 
 ## TIPS
 
