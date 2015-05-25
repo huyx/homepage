@@ -1,11 +1,25 @@
 ## 常用链接
 
 * [GitHub Trending](https://github.com/trending?l=python&since=monthly)
+* [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/) -- Windows 平台二进制扩展包
+* [setuptools](http://pythonhosted.org/setuptools/setuptools.html) -- 不会写 setup.py? 看看这篇文章
+  * [Working in “Development Mode”](https://packaging.python.org/en/latest/distributing.html#working-in-development-mode)
+
+## 经典/酷毙的 Python 模块/工具
+
+* [Cython](http://cython.org/)
+* [click](http://click.pocoo.org/)
+* [stevedore](https://github.com/openstack/stevedore) -- 动态插件管理
+
+## 试用过的模块
+
+* [pbr](https://pypi.python.org/pypi/pbr) -- 对于我来说，有点复杂了，用不到
 
 ## Python 模块
 
 * gunicorn [文档](http://docs.gunicorn.org/) - Python WSGI HTTP Server for UNIX
 * [setproctitle](http://pypi.python.org/pypi/setproctitle) - 修改进程名
+* [parsimonious](https://github.com/erikrose/parsimonious) - PEG(parsing expression grammars) parser
 
 ## Python 项目
 
@@ -18,6 +32,7 @@
 ## 好文章
 
 * [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
+* [用 setuptools 安装命令行工具](http://click.pocoo.org/4/setuptools/)
 
 ## TIPS
 

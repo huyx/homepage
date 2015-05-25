@@ -9,7 +9,7 @@
 
 ## 时间/效率
 
-# [小强的时间管理博客](http://www.gtdlife.com/)
+* [小强的时间管理博客](http://www.gtdlife.com/)
 
 ## 技术资源
 
@@ -39,3 +39,7 @@
 
 * [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+
+## TIPS
+
+* Cacti 清除历史数据: 直接删除 rrd 文件即可
