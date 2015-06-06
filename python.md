@@ -5,8 +5,11 @@
 * [GitHub Trending](https://github.com/trending?l=python&since=monthly)
 * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/) -- Windows 平台二进制扩展包
 
-## Python 经典文章/文档/教程
+## Python 文章/教程
 
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
+* [用 setuptools 安装命令行工具](http://click.pocoo.org/4/setuptools/)
 * Python 语言特性
   * [Descriptor HowTo Guide](https://docs.python.org/3.4/howto/descriptor.html)
 * [abc](https://docs.python.org/3.4/library/abc.html) -- Abstract Base Classes
@@ -16,22 +19,20 @@
 * asyncio
   * [Fast scraping in python with asyncio](http://compiletoi.net/fast-scraping-in-python-with-asyncio.html)
 
-
-## 经典/酷毙的 Python 模块/工具
+## 工具
 
 * [Cython](http://cython.org/)
-* [click](http://click.pocoo.org/)
-* [stevedore](https://github.com/openstack/stevedore) -- 动态插件管理
-
-## 试用过的模块
-
-* [pbr](https://pypi.python.org/pypi/pbr) -- 对于我来说，有点复杂了，用不到
 
 ## Python 模块
 
 * gunicorn [文档](http://docs.gunicorn.org/) - Python WSGI HTTP Server for UNIX
 * [setproctitle](http://pypi.python.org/pypi/setproctitle) - 修改进程名
 * [parsimonious](https://github.com/erikrose/parsimonious) - PEG(parsing expression grammars) parser
+* [pbr](https://pypi.python.org/pypi/pbr) -- 对于我来说，有点复杂了，用不到
+
+### Web 相关
+
+* [HTTPie](https://github.com/jakubroztocil/httpie)
 
 ### asyncio 相关
 
@@ -44,20 +45,10 @@
 
 ### 工具类
 
+* [click](http://click.pocoo.org/)
+* [stevedore](https://github.com/openstack/stevedore) -- 动态插件管理
 * [python-dateutil](https://github.com/dateutil/dateutil/) -- 超强的日期工具
 
-## Python 项目
-
-* [Awesome Python](https://github.com/vinta/awesome-python)
-* [HTTPie ](https://github.com/jakubroztocil/httpie)
-* [aiohttp](https://github.com/KeepSafe/aiohttp) [文档](http://aiohttp.readthedocs.org/)
-  - aiohttp_session
-  - aiohttp_jinja2
-
-## 好文章
-
-* [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
-* [用 setuptools 安装命令行工具](http://click.pocoo.org/4/setuptools/)
 
 ## TIPS
 
