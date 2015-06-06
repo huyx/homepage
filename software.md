@@ -12,7 +12,12 @@
 * Nagios
 * Cacti
 
-## Linux 常用监控软件
+## 开发工具
+
+* Travis CI -- 持续集成，与 GitHub 集成，对开源代码免费
+* [Sourcegraph](https://sourcegraph.com/) -- 与 GitHub 集成，对开源代码免费
+
+## Linux 常用工具软件
 
 * top
 * free
@@ -26,6 +31,7 @@
 * filemon
 * fuser
 * lsof
+* [ncdu](http://dev.yorhel.nl/ncdu) - 磁盘空间分析利器(NCurses Disk Usage)
 
 ## 常用软件技巧
 
