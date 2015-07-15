@@ -4,6 +4,11 @@
 * [PyPI Ranking](http://pypi-ranking.info/alltime)
 * [GitHub Trending](https://github.com/trending?l=python&since=monthly)
 * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/) -- Windows 平台二进制扩展包
+* [Python HOWTOs](https://docs.python.org/3.4/howto/index.html)
+* [PyZh](https://pyzh.readthedocs.org/en/latest/index.html) -- 一起写文章, 一起看文章
+  - [让人耳目一新的Python库](https://pyzh.readthedocs.org/en/latest/awesome-python-libraries.html)
+* [PEP-0](https://www.python.org/dev/peps/)
+* [PEP-3333](https://www.python.org/dev/peps/pep-3333/) -- WSGI(Python Web Server Gateway Interface)
 
 ## Python 文章/教程
 
@@ -25,14 +30,23 @@
 
 ## Python 模块
 
-* gunicorn [文档](http://docs.gunicorn.org/) - Python WSGI HTTP Server for UNIX
-* [setproctitle](http://pypi.python.org/pypi/setproctitle) - 修改进程名
+* [lxml](https://pypi.python.org/pypi/lxml/3.4.4) -- XML 分析处理
+* [PyYAML](https://pypi.python.org/pypi/PyYAML) -- PyYAML
+* [SQLAlchemy](http://www.sqlalchemy.org/)
+* [Jinja2](http://jinja.pocoo.org/)
 * [parsimonious](https://github.com/erikrose/parsimonious) - PEG(parsing expression grammars) parser
-* [pbr](https://pypi.python.org/pypi/pbr) -- 对于我来说，有点复杂了，用不到
+* [redis-py](https://github.com/andymccurdy/redis-py)
+
+* **[sh](http://amoffat.github.io/sh/)**: `from sh import ifconfig; print(ifconfig("wlan0"))`
+* fn.py
+* when.py
+* requests
+* **[tinydb](https://github.com/msiemens/tinydb)**
 
 ### Web 相关
 
 * [HTTPie](https://github.com/jakubroztocil/httpie)
+* gunicorn [文档](http://docs.gunicorn.org/) - Python WSGI HTTP Server for UNIX
 
 ### asyncio 相关
 
@@ -40,15 +54,21 @@
   * aio-libs/[aiorest](https://github.com/aio-libs/aiorest) -- 已废弃，最重要的功能已经移到 aiohttp.web: Request 和 Response
   * aio-libs/[aiohttp_session](https://github.com/aio-libs/aiohttp_session)
   * aio-libs/[aiohttp_jinja2](https://github.com/aio-libs/aiohttp_jinja2) -- 感觉没太大价值
-* aio-libs/[aioredis](https://github.com/aio-libs/aioredis)
-* jonathanslenders/[asyncio_redis](https://github.com/jonathanslenders/asyncio-redis)
+* Redis
+  * jonathanslenders/[asyncio_redis](https://github.com/jonathanslenders/asyncio-redis) -- 推荐
+  * aio-libs/[aioredis](https://github.com/aio-libs/aioredis)
 
 ### 工具类
 
 * [click](http://click.pocoo.org/)
+* [chardet](https://pypi.python.org/pypi/chardet) -- 字符编码检测
 * [stevedore](https://github.com/openstack/stevedore) -- 动态插件管理
 * [python-dateutil](https://github.com/dateutil/dateutil/) -- 超强的日期工具
 
+### 其他
+
+* [setproctitle](http://pypi.python.org/pypi/setproctitle) - 修改进程名
+* [pbr](https://pypi.python.org/pypi/pbr) -- 对于我来说，有点复杂了，用不到
 
 ## TIPS
 

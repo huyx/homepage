@@ -19,21 +19,7 @@
   - [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
   - [Programming Interactive Tutorials](http://resrc.io/list/217/programming-interactive-tutorials/)
   - [pycrumbs](http://resrc.io/list/4/pycrumbs/) -- All free Python learning resources
-
-### Python
-
-* [Python HOWTOs](https://docs.python.org/3.4/howto/index.html)
-* [PyZh](https://pyzh.readthedocs.org/en/latest/index.html) -- 一起写文章, 一起看文章
-  - [让人耳目一新的Python库](https://pyzh.readthedocs.org/en/latest/awesome-python-libraries.html)
-* [PEP-0](https://www.python.org/dev/peps/)
-* [PEP-3333](https://www.python.org/dev/peps/pep-3333/) -- WSGI(Python Web Server Gateway Interface)
-
-### Python 模块
-
-* sh
-* fn.py
-* when.py
-* requests
+* [httpbin](http://httpbin.org/) -- 方便调试 HTTP 请求和响应
 
 ## 文章/书
 
